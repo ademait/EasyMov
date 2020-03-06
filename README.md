@@ -6,23 +6,31 @@ It has the propose of helping handicapped people by showing all markpoints where
 
 ### Login page
 Login with google using OAuth
+
 ![](screenshots/login.png)
 
 ### Home page
 Map using Google Maps API
+
 ![](screenshots/map.png)
 
 There are two icons:
 - Left one: create a route
+
 ![](screenshots/create_route.png)
 ![](screenshots/create_route2.png)
 ![](screenshots/route.png)
+
 - Right one: create an obstacle
+
 ![](screenshots/create_obstacle.png)
 
 There are obstacles with the app logo interface. When pressed:
+
 ![](screenshots/obstacle_preview.png)
+
 There is a like and resolve button(to notificate when an obstacle has been removed, i.e. now there is an elevator)
+
 ![](screenshots/obstacle_preview_resolve.png)
 
 ### Menu
@@ -35,6 +43,7 @@ There is a like and resolve button(to notificate when an obstacle has been remov
 Puntuation works as:
 + Create an obstacle 10 points
 + For every like/dislike on your obstacle 1 point/-1 point.
+
 ![](screenshots/ranking.png)
 
 ### Settings page
