@@ -31,8 +31,6 @@ There are obstacles with the app logo interface. When pressed:
 
 There is a like and resolve button(to notificate when an obstacle has been removed, i.e. now there is an elevator)
 
-
-
 ### Menu
 ![](screenshots/menu.png)
 
