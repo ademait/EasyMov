@@ -49,5 +49,7 @@ Puntuation works as:
 
 ## Authors
 Agut Nadal, David
+
 Ait Fonollà, Adem
+
 Cases, Jordi
